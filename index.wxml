@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+  <view  class="userinfo">
+  </view >
+  <view>
+  <textarea placeholder="6：50AM 跑操" placeholder-style="color:black;" class="userinfo-nickname" />
+  <input placeholder="请输入日程和事件" class="userinfo-nickname" auto-focus/>
+
+</view>
+  <view class="other-button-hover">
+  <button>     提交日程    </button>
+  </view>
+</view>

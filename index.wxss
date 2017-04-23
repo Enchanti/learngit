@@ -1,0 +1,24 @@
+/**index.wxss**/
+.userinfo {
+  background-color:ghostwhite;
+}
+
+.you{
+  color: white;
+}
+
+.userinfo-nickname {
+  background-color:white;
+  border-style:solid;
+  border-color: black;
+}
+
+.other-button-hover {
+  margin-top: 10px;
+  border-style:outset;
+  border-color: gray;
+}
+
+.userinfo-nickname {
+  margin-top: 30px;
+}
